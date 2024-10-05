@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "fountain_pen_manager_api": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7132",
+      "launchBrowser": false
+    }
+  }
+}
